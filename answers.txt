@@ -5,3 +5,7 @@ Answer: It provides many different features including version control to allow t
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: data science can be used in a lot of different fields, for example it can be used in marketing to analyze consumer trends within a target audience to help predict ideas that will be popular.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a merge commit between 2 branches which maintains the history of the separate branches. Rebasing moves the commits from one branch onto another and gets rid of one of the branches by rewriting the history. 
